@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+node_modules
+deploy
+test
+*.log
+uinodeenv
+venvnode
+build
+e2ereport
+certs
+package-lock.json
